@@ -1,6 +1,8 @@
 # TaskManger
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
+A simple task management application built with Angular 14+ that demonstrates key Angular concepts including components, services, routing, reactive forms, RxJS, and state management using a lightweight approach (RxJS + services).
+
+This project also uses a fake REST API powered by [`json-server`](http://localhost:3000/tasks).
 
 ## Development server
 
